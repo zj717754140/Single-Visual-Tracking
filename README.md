@@ -7,3 +7,8 @@ Some tracking paper and code.
 
 
 # CVPR 2018
+
+
+
+# ECCV 2016
+* SiameseFC: Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. "Fully-Convolutional Siamese Networks for Object Tracking." ECCV workshop (2016)  [[Pytorch implementation of SiamFC]](https://github.com/StrangerZhang/SiamFC-PyTorch)  [[paper]](https://arxiv.org/pdf/1606.09549.pdf)
