@@ -17,7 +17,7 @@
 # ECCV 2016
 * **SiameseFC**: Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. **"Fully-Convolutional Siamese Networks for Object Tracking."** ECCV workshop (2016)   [[paper]](https://arxiv.org/pdf/1606.09549.pdf)   [[code:Pytorch implementation of SiamFC]](https://github.com/StrangerZhang/SiamFC-PyTorch)
 
-* **GOTRUN** :David Held, Sebastian Thrun, Silvio Savarese **"Learning to Track at 100 FPS with Deep Regression Networks"** European Conference on Computer Vision. Springer, Cham, 2016.[paper](https://arxiv.org/pdf/1604.01802.pdf) [code](https://github.com/davheld/GOTURN)
+* **GOTRUN** :David Held, Sebastian Thrun, Silvio Savarese **"Learning to Track at 100 FPS with Deep Regression Networks"** European Conference on Computer Vision. Springer, Cham, 2016.[[paper]](https://arxiv.org/pdf/1604.01802.pdf) [[code]]  (https://github.com/davheld/GOTURN)
 
 
 
