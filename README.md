@@ -25,3 +25,20 @@
 
 * L. Bertinetto, J. F. Henriques, J. Valmadre, P. H. S. Torr, and
 A. Vedaldi. Learning feed-forward one-shot learners
+
+* Andriluka, M., Roth, S., Schiele, B.: People-tracking-by-detection and people-
+detection-by-tracking. In: Computer Vision and Pattern Recognition, 2008. CVPR
+2008. IEEE Conference on. pp. 1–8. IEEE (2008)
+
+* Bazzani, L., Larochelle, H., Murino, V., Ting, J.a., Freitas, N.D.: Learning atten-
+tional policies for tracking and recognition in video with deep networks. In: Pro-
+ceedings of the 28th International Conference on Machine Learning (ICML-11).
+pp. 937–944 (2011
+
+* 
+
+* Tao, R., Gavves, E., Smeulders, A.W.M.: Siamese instance search for tracking. In:
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
+(2016)
+
+* Tracking with deep neural networks
