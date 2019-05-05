@@ -23,22 +23,14 @@
 
 * **FPN** :T. Y. Lin, P. Dollr, R. Girshick, K. He, B. Hariharan, and S. Belongie **"Feature pyramid networks for object detection"** [paper](https://arxiv.org/pdf/1612.03144v2.pdf)
 
-* L. Bertinetto, J. F. Henriques, J. Valmadre, P. H. S. Torr, and
-A. Vedaldi. Learning feed-forward one-shot learners
+* L. Bertinetto, J. F. Henriques, J. Valmadre, P. H. S. Torr, and A. Vedaldi. **"Learning feed-forward one-shot learners"**
 
-* Andriluka, M., Roth, S., Schiele, B.: People-tracking-by-detection and people-
-detection-by-tracking. In: Computer Vision and Pattern Recognition, 2008. CVPR
-2008. IEEE Conference on. pp. 1–8. IEEE (2008)
+* Andriluka, M., Roth, S., Schiele, B.: **"People-tracking-by-detection and people-detection-by-tracking."** In: Computer Vision and Pattern Recognition, 2008. CVPR2008. IEEE Conference on. pp. 1–8. IEEE (2008)
 
-* Bazzani, L., Larochelle, H., Murino, V., Ting, J.a., Freitas, N.D.: Learning atten-
-tional policies for tracking and recognition in video with deep networks. In: Pro-
-ceedings of the 28th International Conference on Machine Learning (ICML-11).
-pp. 937–944 (2011
+* Bazzani, L., Larochelle, H., Murino, V., Ting, J.a., Freitas, N.D.: **"Learning attentional policies for tracking and recognition in video with deep networks."** In: Proceedings of the 28th International Conference on Machine Learning (ICML-11).pp. 937–944 (2011)
 
-* 
 
-* Tao, R., Gavves, E., Smeulders, A.W.M.: Siamese instance search for tracking. In:
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
-(2016)
 
-* Tracking with deep neural networks
+* Tao, R., Gavves, E., Smeulders, A.W.M.: **"Siamese instance search for tracking."** In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition(2016)
+
+* Jin J , Dundar A , Bates J , et al. **"Tracking with deep neural networks[C]."**// Information Sciences and Systems (CISS), 2013 47th Annual Conference on. IEEE, 2013.
