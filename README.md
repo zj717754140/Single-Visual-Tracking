@@ -39,3 +39,6 @@
 * Tao, R., Gavves, E., Smeulders, A.W.M.: **"Siamese instance search for tracking."** In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition(2016)
 
 * Jin J , Dundar A , Bates J , et al. **"Tracking with deep neural networks[C]."**// Information Sciences and Systems (CISS), 2013 47th Annual Conference on. IEEE, 2013.
+
+
+* R. Girshick, J. Donahue, T. Darrell, and J. Malik. **Rich feature hierarchies for accurate object detection and semantic segmentation.** In CVPR, 2014(bounding box Regression)
